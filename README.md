@@ -2,7 +2,7 @@
 
 This is a simple Python script that monitors a chosen subreddit and replies to any comments containing specific keywords with a randomly chosen reply from a list of possible replies.
 
-Getting Started
+# Getting Started
 Clone this repository to your local machine.
 
 Create a virtual environment and activate it.
