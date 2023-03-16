@@ -38,4 +38,4 @@ To start the bot, activate your virtual environment and run the script.
 The script will run indefinitely, monitoring the chosen subreddit for new comments and replying to any comments containing the specified keywords with a randomly chosen reply from the list of possible replies.
 
 # Disclaimer
-This script is for educational purposes only. Use at your own risk. Unapproved bots can result in bans ans 
+This script is for educational purposes only. Use at your own risk. Unapproved bots can result in suspensions and/or bans from Reddit. 
