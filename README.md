@@ -2,6 +2,8 @@
 
 This is a simple Python script that monitors a chosen subreddit and replies to any comments containing specific keywords with a randomly chosen reply from a list of possible replies.
 
+**PLEASE NOTE: REDDIT MADE CHANGES TO THEIR API POLICY IN JULY OF 2023, BE SURE TO READ THE UPDATED CONDITIONS TO USE THEIR API BEFORE ATTEMPTING TO USE THIS BOT.**
+
 # Getting Started
 Clone this repository to your local machine.
 
